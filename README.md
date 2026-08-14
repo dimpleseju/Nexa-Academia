@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NEXA-ACADEMIA
 
 A Java-based University Management System with a console interface and MySQL database integration.
@@ -83,3 +84,6 @@ On Windows, use `;` instead of `:` in the classpath.
 ## Notes
 
 This repository contains the source converted from the original `NEXA-ACEDEMIA.txt` project file. The project uses a single main Java class with custom data structures implemented as inner classes.
+=======
+# Nexa-Academia
+>>>>>>> 92eee5c2372c354383b6cbe2b0ee7145fb9949e2
