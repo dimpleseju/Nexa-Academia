@@ -79,11 +79,5 @@ javac -cp "path/to/mysql-connector-j.jar" -d out src/UniversityManagementSystem.
 java -cp "out:path/to/mysql-connector-j.jar" UniversityManagementSystem
 ```
 
-On Windows, use `;` instead of `:` in the classpath.
-
-## Notes
-
-This repository contains the source converted from the original `NEXA-ACEDEMIA.txt` project file. The project uses a single main Java class with custom data structures implemented as inner classes.
 =======
 # Nexa-Academia
->>>>>>> 92eee5c2372c354383b6cbe2b0ee7145fb9949e2
